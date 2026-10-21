@@ -11,10 +11,10 @@
 
 ### 🛒 Official Release & Agent Skill
 
-The complete **Adsparo MCP Server** and the accompanying **Ad Intelligence Competitor Spy Skill** are distributed exclusively via Wise Tools:
+The complete **Adsparo MCP Server** and the accompanying **Ad Intelligence Competitor Spy Skill** are distributed officially via Wise Tools:
 
-👉 **[Get the Full Toolkit on MCP Market](https://mcpmarket.com/sellers/wisetools)**
-
+👉 **[Instant Download on Gumroad ($29)](https://wisetools.gumroad.com/l/adsparo-mcp-toolkit)** (Card, Apple Pay, PayPal)  
+👉 **[Storefront on MCP Market](https://mcpmarket.com/sellers/wisetools)**
 ---
 
 ## ⚡ Key Capabilities
@@ -97,4 +97,5 @@ This repository and the Adsparo MCP server are unofficial tools developed indepe
 ## 📦 Distribution & Support
 
 Maintained with ❤️ by **Wise Tools**.  
-For commercial licenses, managed bundles, and skill toolkits, visit [Wise Tools on MCP Market](https://mcpmarket.com/sellers/wisetools).
+Direct Checkout: [wisetools.gumroad.com/l/adsparo-mcp-toolkit](https://wisetools.gumroad.com/l/adsparo-mcp-toolkit)  
+Storefront: [mcpmarket.com/sellers/wisetools](https://mcpmarket.com/sellers/wisetools)
